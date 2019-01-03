@@ -27,13 +27,13 @@ The features of the toolkit are listed below.
 - use only the ONE testing class to test how your code behaves
 - The Util class will combine all the sub-classes, from where they will be available for use
 
-### Useful sources
+## Useful sources
 
 - If something doesn't work, you can always search for old solutions on [Stack Overflow][]
 - Optionally you can also always search the [Internet][]
 - Learn more about [Gradle][], it may be [important][]
 - The latest information about this project is obviously on the [Github][] page
-- For documentation of Java you may use [Java 8 Docs API][] or [DecDocs][]
+- For documentation of Java you may use [Java 8 Docs API][] or [DevDocs][]
 - If you're wondering, this document is made in [Markdown][]
 
 [//]: # (References)
