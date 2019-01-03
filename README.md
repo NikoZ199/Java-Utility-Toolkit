@@ -5,6 +5,7 @@ By making these small but powerful utilities once, you can reuse them in later p
 The features of the toolkit are listed below.
 
 ## Utils Toolkit Plans
+
 - local and remote database management
 - filesystem management
 - commandline argument handling
@@ -15,6 +16,7 @@ The features of the toolkit are listed below.
 - any other ease of use classes
 
 ## General Principles
+
 - all code should be formatted using standard formatting
 - only classes and methods that are meant to be accessed from outside the package should be public
 - no other class but the Console class may print to the console, exceptions can apply
@@ -24,3 +26,21 @@ The features of the toolkit are listed below.
 - all code must be able to compile, obviously
 - use only the ONE testing class to test how your code behaves
 - The Util class will combine all the sub-classes, from where they will be available for use
+
+### Useful sources
+
+- If something doesn't work, you can always search for old solutions on [Stack Overflow][]
+- Optionally you can also always search the [Internet][]
+- Learn more about [Gradle][], it may be [important][]
+- The latest information about this project is obviously on the [Github][] page
+- For documentation of Java you may use [Java 8 Docs API][] or [DecDocs][]
+- If you're wondering, this document is made in [Markdown][]
+
+[//]: # (References)
+[Stack Overflow]: https://stackoverflow.com/
+[Java 8 Docs API]: https://docs.oracle.com/javase/8/docs/api/
+[Github]: https://github.com/NikoZ199/Java-Utility-Toolkit
+[DevDocs]: https://devdocs.io/openjdk~8/
+[Markdown]: https://daringfireball.net/projects/markdown/
+[important]: https://www.youtube.com/watch?v=IwLSrNu1ppI
+[Internet]: http://bfy.tw/8uwE
