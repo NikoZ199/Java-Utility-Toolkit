@@ -7,12 +7,21 @@
             "label": "echo",
             "type": "shell",
             "command": "echo Hello",
+            "group": "none",
             "problemMatcher": []
         },
         {
             "label": "pwd",
             "type": "shell",
             "command": "pwd",
+            "group": "none",
+            "problemMatcher": []
+        },
+        {
+            "label": "run",
+            "type": "shell",
+            "command": "cd ./bin/main/ && java ezutils.App",
+            "group": "test",
             "problemMatcher": []
         },
         {
