@@ -4,8 +4,8 @@
             "type": "java",
             "name": "CodeLens (Launch) - App",
             "request": "launch",
-            "mainClass": "java.utils",
-            "projectName": "java-utils"
+            "mainClass": "ezutils.App",
+            "projectName": "ezutils"
         }
     ]
 }
