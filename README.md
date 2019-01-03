@@ -38,9 +38,10 @@ The features of the toolkit are listed below.
 
 [//]: # (References)
 [Stack Overflow]: https://stackoverflow.com/
+[Gradle]: https://docs.gradle.org/current/userguide/userguide.html
 [Java 8 Docs API]: https://docs.oracle.com/javase/8/docs/api/
 [Github]: https://github.com/NikoZ199/Java-Utility-Toolkit
 [DevDocs]: https://devdocs.io/openjdk~8/
 [Markdown]: https://daringfireball.net/projects/markdown/
-[important]: https://www.youtube.com/watch?v=IwLSrNu1ppI
+[important]: https://www.youtube.com/embed/IwLSrNu1ppI?autoplay=true
 [Internet]: http://bfy.tw/8uwE
