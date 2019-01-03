@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Java Utility Toolkit</name>
-	<comment>Project Java Utility Toolkit created by Buildship.</comment>
+	<name>java-utils</name>
+	<comment>Project java-utils created by Buildship.</comment>
 	<projects>
 	</projects>
 	<buildSpec>

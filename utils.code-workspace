@@ -4,5 +4,17 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.autobuild.enabled": true,
+		"java.format.comments.enabled": true,
+		"java.format.enabled": true,
+		"java.format.onType.enabled": true,
+		"java.import.gradle.enabled": true,
+		"vsintellicode.java.completionsEnabled": true,
+		"git.autofetch": true,
+		"git.autorefresh": true,
+		"git.confirmForcePush": true,
+		"git.fetchOnPull": true
+	}
 }
