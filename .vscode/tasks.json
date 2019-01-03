@@ -6,7 +6,45 @@
         {
             "label": "echo",
             "type": "shell",
-            "command": "echo Hello"
+            "command": "echo Hello",
+            "problemMatcher": []
+        },
+        {
+            "label": "pwd",
+            "type": "shell",
+            "command": "pwd",
+            "problemMatcher": []
+        },
+        {
+            "label": "gbuild",
+            "type": "shell",
+            "command": "gradle build",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "gscan",
+            "type": "shell",
+            "command": "grable build --scan",
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "label": "gstack",
+            "type": "shell",
+            "command": "gradle build --stacktrace",
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "label": "gimme a real banger",
+            "type": "shell",
+            "command": "/mnt/c/Windows/System32/cmd.exe /C \"start https://www.youtube.com/watch?v=MBfkyG5AsE0\"",
+            "group": "none",
+            "problemMatcher": []
         }
     ]
 }
