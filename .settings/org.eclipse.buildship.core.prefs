@@ -1,2 +1,9 @@
-connection.project.dir=
+#Fri Jan 11 02:37:55 EET 2019
+connection.gradle.distribution=GRADLE_DISTRIBUTION(WRAPPER)
+override.workspace.settings=true
 eclipse.preferences.version=1
+auto.sync=false
+gradle.user.home=
+connection.project.dir=
+offline.mode=false
+build.scans.enabled=false
